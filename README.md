@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doduy&label=Profile%20views&color=0e75b6&style=flat" alt="doduy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=doduy" alt="doduy" /></a> </p>
+<!--- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=doduy&theme=onedark" alt="doduy" /></a> </p> -->
 
 - 🔭 I’m currently working on [DSudoku](https://github.com/DoDuy/DSudoku)
 
 - 🌱 I’m currently learning **AI on Edge**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DoDuy?tab=repositories](https://github.com/DoDuy?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/DoDuy?tab=repositories)
 
-- 📄 Know about my experiences [https://doduy.github.io/resume/](https://doduy.github.io/resume/)
+- 📄 Know about my experiences [Rresume](https://doduy.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doduy&show_icons=true&locale=en" alt="doduy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doduy&" alt="doduy" /></p>
-
