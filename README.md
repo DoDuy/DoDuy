@@ -5,7 +5,7 @@
 
 <!--- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=doduy&theme=onedark" alt="doduy" /></a> </p> -->
 
-- 🔭 I’m currently working on my private project - [DSudoku](https://github.com/DoDuy/DSudoku)
+- 🔭 I’m currently working on **my private project** - [DSudoku](https://github.com/DoDuy/DSudoku)
 
 - 🌱 I’m currently learning **AI on Edge**
 
