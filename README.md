@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/DoDuy?tab=repositories)
 
-- 📄 Know about my experiences [Rresume](https://doduy.github.io/resume/)
+- 📄 Know about my experiences [Resume](https://doduy.github.io/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
