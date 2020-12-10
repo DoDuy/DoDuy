@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my private project** - [DSudoku](https://github.com/DoDuy/DSudoku)
 
-- 🌱 I’m currently learning **AI on Edge**
+- 🌱 I’m currently learning **AI on Edge, RPA, Robotics**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/DoDuy?tab=repositories)
 
