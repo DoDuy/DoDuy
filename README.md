@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duy Do</h1>
-<h3 align="center">Artificial Intelligence Expert/ Product Manager/ Traveller</h3>
+<h3 align="center">Artificial Intelligence Researcher/ AI Project Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doduy&label=Profile%20views&color=0e75b6&style=flat" alt="doduy" /> </p>
 
