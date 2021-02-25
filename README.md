@@ -5,7 +5,7 @@
 
 <!--- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=doduy&theme=onedark" alt="doduy" /></a> </p> -->
 
-🔭 I’m currently working on **my private project** - [DSudoku](https://github.com/DoDuy/DSudoku) - An IOS App could scan and solve sudoku puzzle on papers/ phone/ screen/ ...
+🔭 I’m currently working on **my private project** - [DSudoku](https://github.com/DoDuy/DSudoku) - An IOS App could scan and solve sudoku puzzle on papers and screenshot ...
 - Scan by AI (Object Detection and Image Classification)
 - Solve Sudoku by SAT
 
