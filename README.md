@@ -8,7 +8,7 @@
 🔭 I’m currently working on **my project** - [AI Sudoku Solver](http://vtechfuture.com/AISudokuSolver/) - An IOS App could scan and solve sudoku puzzle on papers and screenshot ...
 - Scan by AI (Object Detection and Image Classification)
 - Solve Sudoku by SAT
-- Ultra lightweight models: 139KB Object Detection model,...
+- Ultra lightweight models: 135KB Object Detection model, and 260KB Number Classification model
 
 <!--- - 📄 Know about my experiences [Resume](https://doduy.github.io/resume/) -->
 
