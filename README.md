@@ -9,6 +9,7 @@
 - Scan by AI (Object Detection and Image Classification)
 - Solve Sudoku by SAT
 - Ultra lightweight models: 135KB Object Detection model, and 290KB Number Classification model
+- I will public source code soon
 
 <!--- - 📄 Know about my experiences [Resume](https://doduy.github.io/resume/) -->
 
