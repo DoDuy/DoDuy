@@ -11,7 +11,7 @@
 - Ultra lightweight models: 135KB Object Detection model, and 290KB Number Recognition model
 - I will public source code soon
 
-🔭I'm thinking about a new idea on cryptocurrency 
+🌱I'm thinking about a new idea on cryptocurrency 
 <!--- - 📄 Know about my experiences [Resume](https://doduy.github.io/resume/) -->
 
 <!--- <h3 align="left">Connect with me:</h3> -->
