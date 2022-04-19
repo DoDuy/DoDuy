@@ -13,7 +13,7 @@
 - Scan by AI (Object Detection and Image Classification)
 - Solve Sudoku by SAT
 - Ultra lightweight models: 135KB Object Detection model, and 290KB Number Recognition model
-- I will public source code soon
+<!-- - I will public source code soon -->
 
 
 🌱I'm thinking about a new idea on cryptocurrency 
