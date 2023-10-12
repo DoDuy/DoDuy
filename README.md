@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Duy Do</h1>
 <h3 align="center">AI Researcher/ Project Manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=doduy&label=Profile%20views&color=0e75b6&style=flat" alt="doduy" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=doduy&label=Profile%20views&color=0e75b6&style=flat" alt="doduy" /> </p> -->
 
 <!--- <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=doduy&theme=onedark" alt="doduy" /></a> </p> -->
 
